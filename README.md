@@ -1,2 +1,2 @@
 # kotlin_in_action
-Kotlinイン・アクションから学びを書きます。
+Kotlinイン・アクションからの学びを書きます。
